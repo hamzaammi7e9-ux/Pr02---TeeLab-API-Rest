@@ -1,5 +1,4 @@
-# Pr02---TeeLab-API-Rest# TeeLab API - Práctica 2
-
+# Pr02---TeeLab-API-Res
 ## Instalación
 npm install  
 npm run dev

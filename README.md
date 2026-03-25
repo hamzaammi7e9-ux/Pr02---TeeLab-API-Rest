@@ -1,4 +1,4 @@
-# Pr02---TeeLab-API-Res
+# Pr02---TeeLab-API-Rest
 ## Instalación
 npm install  
 npm run dev

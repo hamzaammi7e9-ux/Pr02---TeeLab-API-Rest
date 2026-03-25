@@ -1,0 +1,24 @@
+{
+  "name": "practicaapi",
+  "version": "1.0.0",
+  "description": "Práctica 2 TeeLab API",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "api",
+    "teelab"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.21.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+  
+}
